@@ -84,4 +84,4 @@ HFC:
 - NPM modules not found: `docker-compose build`
 
 ## Running on Azure
-  [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2oscarkoe%2Fhyperledger-on-azure%2Fv2-typescript%2Fazure%2Fazuredeploy.json)
+  [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Foscarkoe%2Fhyperledger-on-azure%2Fv2-typescript%2Fazure%2Fazuredeploy.json)
